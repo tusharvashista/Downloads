@@ -20,6 +20,6 @@ Ensure the Total column correctly represents the product of Quantity and Price. 
 
 LOADING:
 
-import pandas as pd \
-file_path = 'sales_data.csv' \ 
-data = pd.read_csv(file_path) \
+import pandas as pd <br>
+file_path = 'sales_data.csv' <br> 
+data = pd.read_csv(file_path)
