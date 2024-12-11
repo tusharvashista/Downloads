@@ -92,3 +92,5 @@ Plot the training loss over epochs using matplotlib.
 Example Output:
 
 Your plot should display the training loss decreasing over time, indicating that the model is learning.
+
+Bhai?? Kar raha haii
