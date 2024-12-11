@@ -16,3 +16,10 @@ Data Cleaning:
 Ensure there are no missing values. If any are found, fill them with appropriate values. [3 mark]
 Convert the Date column to a datetime object. [2 mark]
 Ensure the Total column correctly represents the product of Quantity and Price. If any discrepancies are found, correct them. [2 mark]
+
+
+LOADING:
+
+import pandas as pd
+file_path = 'sales_data.csv'
+data = pd.read_csv(file_path)
