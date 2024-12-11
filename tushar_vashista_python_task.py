@@ -5,7 +5,7 @@ import torch
 import torch.nn as nn
 
 ########################## Task 1a: Data Loading and Preprocessing #######################
-file_path = "C:/Users/Jayant Misra/Desktop/sales_data.csv"
+file_path = "sales_data.csv"
 df = pd.read_csv(file_path)
 
 # print(df.info())
